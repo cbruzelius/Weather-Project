@@ -14,7 +14,10 @@ i {
 }
 
 i {
-  float: left;body {
+  float: left;
+}
+
+body {
   font-family: Google Sans, arial, sans-serif;
   font-weight: lighter;
   color: #878787;
